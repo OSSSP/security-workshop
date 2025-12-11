@@ -3,3 +3,4 @@ sqlalchemy
 flask-sqlalchemy
 flask-restless
 requests
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
